@@ -5,3 +5,4 @@ mihon_source/**/test/
 mihon_source/**/build/
 mihon_source/**/.gradle/
 mihon_source/**/bin/
+.env
